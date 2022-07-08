@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+const eliVillalejos = { lookingFor: "Front-end developer" || "Full-stack web developer", pronouns: ["him", "he"],
+code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, Tailwind CSS, Material UI], 
+askMeAbout: [Godfrey, The 1985, food recipes, renovation shows], 
+challenge: "I am honing my React skills and picking up TypeScript", 
+funFacts: ['I have 1+ years of remote work experience with devs from all over the world', ] }
+
 -->
+
