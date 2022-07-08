@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-<!--
 **Godfrey-Alimony/Godfrey-Alimony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -19,5 +17,4 @@ askMeAbout: [Godfrey, The 1985, food recipes, renovation shows],
 challenge: "I am honing my React skills and picking up TypeScript", 
 funFacts: ['I have 1+ years of remote work experience with devs from all over the world', ] }
 
--->
 
