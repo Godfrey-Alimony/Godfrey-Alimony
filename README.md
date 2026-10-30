@@ -6,10 +6,31 @@
 
 <br>
 
+<a href="https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-View_My_Work-00ff88?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://premium.chat/GodfreyTechSupport"><img src="https://img.shields.io/badge/💬_LIVE_SUPPORT-%2430_Chat_Now-0369a1?style=for-the-badge&logo=wechat&logoColor=white"/></a>
+
+<br>
+
 <img src="https://img.shields.io/badge/10%2B%20Years-Enterprise%20IT-0369a1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Infrastructure-Engineering-0f172a?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cloud-Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Security-Cybersecurity-111827?style=for-the-badge"/>
+
+</div>
+
+---
+
+## 🚀 LIVE PORTFOLIO & SUPPORT
+
+<div align="center">
+
+### 👉 Portfolio Website: [godfrey-alimony.github.io/IT-Infrastructure-Portfolio](https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/)
+
+**🟢 Live Tech Support:** Stuck on Windows Server / AD / M365 / Network? [Chat Live Now - $30 / 30min](https://premium.chat/GodfreyTechSupport) - Response in < 2 min
+
+| 🌐 Portfolio | 💬 Live Support | 📧 Contact |
+| :---: | :---: | :---: |
+| **[View My Work →](https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/)** | **[Chat Now $30 →](https://premium.chat/GodfreyTechSupport)** | **[alimonyg@gmail.com](mailto:alimonyg@gmail.com)** |
 
 </div>
 
@@ -23,7 +44,7 @@
 
 </div>
 
-### 👨‍💻 About Me
+### 👨💻 About Me
 
 I am a **Senior IT Infrastructure & Systems Engineer** with **10+ years of enterprise IT experience**, specializing in the administration, support, security and continuous improvement of IT infrastructure.
 
@@ -33,12 +54,12 @@ I work across **systems, networks, cloud, virtualization, cybersecurity and IT s
 ┌──────────────────────────────────────────────────────────────┐
 │                 ENTERPRISE IT SPECIALIZATION                 │
 ├──────────────────────────────────────────────────────────────┤
-│  🖥️  Systems Administration       Windows Server / Linux    │
+│  🖥  Systems Administration       Windows Server / Linux    │
 │  🔐  Identity & Access            Active Directory / GPO   │
 │  🌐  Network Infrastructure       LAN / WAN / VPN / VLAN   │
-│  ☁️  Cloud Infrastructure         Azure / Microsoft 365    │
+│  ☁  Cloud Infrastructure         Azure / Microsoft 365    │
 │  🖧  Virtualization               VMware / vSphere         │
-│  🛡️  Cybersecurity                Endpoint / Security      │
+│  🛡  Cybersecurity                Endpoint / Security      │
 │  💾  Business Continuity          Backup / Disaster DR     │
 │  📊  Monitoring                   PRTG / Nagios / SolarW.  │
 └──────────────────────────────────────────────────────────────┘
@@ -76,7 +97,7 @@ I work across **systems, networks, cloud, virtualization, cybersecurity and IT s
 
 ## 📊 INFRASTRUCTURE EXPERTISE
 
-| 🖥️ Systems      | 🌐 Networks         | ☁️ Cloud         | 🛡️ Security             |
+| 🖥 Systems      | 🌐 Networks         | ☁ Cloud         | 🛡 Security             |
 | :--------------- | :------------------ | :--------------- | :----------------------- |
 | Windows Server   | LAN / WAN           | Microsoft Azure  | Endpoint Security        |
 | Active Directory | VLAN / TCP/IP       | Microsoft 365    | Access Control           |
@@ -86,7 +107,7 @@ I work across **systems, networks, cloud, virtualization, cybersecurity and IT s
 
 ---
 
-## ⚙️ HOW I WORK
+## ⚙ HOW I WORK
 
 <div align="center">
 
@@ -142,16 +163,6 @@ I work across **systems, networks, cloud, virtualization, cybersecurity and IT s
 * Develop technical documentation, troubleshooting procedures and **IT SOP/knowledge-base content**.
 * Coordinate with vendors and internal teams to maintain reliable and secure IT services.
 
-### 🛠️ IT Technician & Network Support
-
-**Kakira Sugar Limited — Uganda**
-📅 **January 2016 – January 2020**
-
-* Provided first-line and second-line technical support for users, computers, printers and network devices.
-* Troubleshot **Windows, hardware, networking, printing and connectivity issues**.
-* Assisted with network administration, equipment deployment and preventive maintenance.
-* Supported user accounts, software installation, system configuration and IT asset management.
-
 ---
 
 ## 📈 KEY ACHIEVEMENTS
@@ -176,9 +187,15 @@ I work across **systems, networks, cloud, virtualization, cybersecurity and IT s
 
 ## 🚀 FEATURED IT INFRASTRUCTURE PROJECTS
 
+<div align="center">
+
+### 🌐 Live Portfolio: [godfrey-alimony.github.io/IT-Infrastructure-Portfolio](https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/)
+
+</div>
+
 My portfolio contains practical case studies covering enterprise infrastructure, systems administration, networking, cloud, security and business continuity.
 
-### 🖥️ Systems & Infrastructure
+### 🖥 Systems & Infrastructure
 
 * **Active Directory Administration**
 * **Windows Server Administration**
@@ -191,13 +208,13 @@ My portfolio contains practical case studies covering enterprise infrastructure,
 * **Microsoft 365 Administration**
 * **Azure Cloud Infrastructure**
 
-### 🛡️ Security & Resilience
+### 🛡 Security & Resilience
 
 * **Cybersecurity & IT Security**
 * **Backup & Disaster Recovery**
 
 👉 **Explore all projects:**
-**[IT Infrastructure Portfolio](https://github.com/Godfrey-Alimony/IT-Infrastructure-Portfolio)**
+**[IT Infrastructure Portfolio](https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/)**
 
 ---
 
@@ -247,30 +264,6 @@ Backup • Disaster Recovery • Business Continuity
 
 ---
 
-## 📚 PUBLICATION
-
-### 🕷️ Spider Wick Web Application
-
-**LAP Lambert Academic Publishing**
-📅 **May 2012**
-
----
-
-## 🔐 PROFESSIONAL APPROACH
-
-I believe effective IT infrastructure should be:
-
-**Secure 🔐**
-**Reliable ⚙️**
-**Available 🟢**
-**Scalable 📈**
-**Well Documented 📚**
-**Continuously Improved 🚀**
-
-My approach combines **technical troubleshooting, preventive maintenance, automation, security and structured IT service management** to deliver dependable technology services.
-
----
-
 ## 📫 LET'S CONNECT
 
 <div align="center">
@@ -287,6 +280,10 @@ My approach combines **technical troubleshooting, preventive maintenance, automa
 
 📍 **Uganda | Open to Remote & International Opportunities**
 
+🌐 **Portfolio:** [godfrey-alimony.github.io/IT-Infrastructure-Portfolio](https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/)
+
+💬 **Live Support:** [premium.chat/GodfreyTechSupport](https://premium.chat/GodfreyTechSupport) - $30 / 30min
+
 📧 **[alimonyg@gmail.com](mailto:alimonyg@gmail.com)**
 
 📱 **+256 783 608030**
@@ -295,6 +292,7 @@ My approach combines **technical troubleshooting, preventive maintenance, automa
 
 <img src="https://img.shields.io/badge/Open%20to-Remote%20Opportunities-0369A1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20to-International%20Roles-0F172A?style=for-the-badge"/>
+<a href="https://godfrey-alimony.github.io/IT-Infrastructure-Portfolio/"><img src="https://img.shields.io/badge/Hire%20Me-View%20Portfolio-00ff88?style=for-the-badge"/></a>
 
 </div>
 
